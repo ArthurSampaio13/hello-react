@@ -1,5 +1,5 @@
 #!/bin/bash
-nomeApp="<NOME-APP>"
+nomeApp="hello-react"
 cd /appdir
 npm install
 
